@@ -5,7 +5,7 @@
 
 ## ⚡ Github Stats
 
-![Nima Poshtiban's Github Stats](https://github-readme-stats.vercel.app/api?username=nimaposhtiban&show_icons=true&theme=vue-dark) 
+![Nima Poshtiban's Github Stats](https://github-readme-stats.vercel.app/api?username=nimaposhtiban&hide=contribs,prs&show_icons=true&theme=vue-dark) 
 
 
 
