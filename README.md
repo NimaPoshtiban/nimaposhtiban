@@ -17,7 +17,7 @@
 
 #### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimaposhtiban&layout=compact&hide=scss,css,html,less&langs_count=10&theme=vue-dark)](https://github.com/nimaposhtiban/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimaposhtiban&layout=compact&hide=scss,css,html,less,blade,hack&langs_count=10&theme=vue-dark)](https://github.com/nimaposhtiban/github-readme-stats)
 
 ##### joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
