@@ -48,7 +48,7 @@
 
 ### Databases and cloud hosting
 
-<img alt="Github pages" src="https://img.shields.io/badge/-Github%20Pages-181717?logo=github&logoColor=white&style=plastic&logoWidth=20">
+<a><img alt="Github pages" src="https://img.shields.io/badge/-Github%20Pages-181717?logo=github&logoColor=white&style=plastic&logoWidth=20"></a>
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=plastic&logoWidth=20">
 <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-white?logo=vercel&logoColor=black&style=plastic&logoWidth=20">
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic&logoWidth=20">
@@ -59,7 +59,7 @@
 
 ### Software and tools
 
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic&logoWidth=20">
+<a><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic&logoWidth=20"></a>
 <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white&style=plastic&logoWidth=20">
 <img alt="Npm" src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=plastic&logoWidth=20">
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic&logoWidth=20">
