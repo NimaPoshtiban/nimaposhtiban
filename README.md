@@ -32,7 +32,7 @@
 
 ### Frameworks and libraries
 
-<img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=plastic&logoWidth=20">
+<a><img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=plastic&logoWidth=20"></a>
 <img alt="React" src="https://img.shields.io/badge/-ReactJS-black?logo=react&logoColor=61DAFB&style=plastic&logoWidth=20">
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=plastic&logoWidth=20">
 <img alt="Tailwind css" src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=plastic&logoWidth=20">
