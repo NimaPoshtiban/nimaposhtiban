@@ -5,9 +5,9 @@
 
 ## ⚡ Github Stats
 
-![Nima Poshtiban's Github Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=nimaposhtiban&count_private=true&show_icons=true&theme=vue-dark)
+<!-- ![Nima Poshtiban's Github Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=nimaposhtiban&count_private=true&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=nimaposhtiban&hide=html,css,scss,ejs,javascript,blade,batchfile&langs_count=10&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 
 <img style="max width;100%" src="./vim-go.png">
 
