@@ -6,7 +6,7 @@
 <!-- ![Nima Poshtiban's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nimaposhtiban&count_private=true&show_icons=true&theme=vue-dark)  -->
 <img style="max width;100%" src="./vim-go.png">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimaposhtiban&hide=html,css,scss,ejs,javascript,blade,batchfile&langs_count=6&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimaposhtiban&hide=javascript,blade,batchfile&langs_count=6&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimaposhtiban&theme=algolia&no-bg=true" alt="Nima Poshtiban" /></a> 
 
