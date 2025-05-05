@@ -5,7 +5,8 @@
 <!-- ![Nima Poshtiban's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nimaposhtiban&count_private=false&show_icons=true&theme=vue-dark)  -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimaposhtiban&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimaposhtiban&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+![Top Langs](https://raw.githubusercontent.com/NimaPoshtiban/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimaposhtiban&theme=algolia&no-bg=true" alt="Nima Poshtiban" /></a> --> 
 
